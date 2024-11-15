@@ -2,4 +2,4 @@ A course project for F24-OIT-604: Data, Learning, and Decision-Making, taught by
 
 The repo includes a code replication for the synthetic experiments in the paper ["Posterior Sampling via Autoregressive Generation"](https://arxiv.org/abs/2405.19466).
 
-By Wenqian Xing and Joyee Wang.
+By Wenqian Xing (wxing@stanford.edu) and Joyee Wang.
